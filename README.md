@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm asdfgh12345123! :wave:
 
-<!--
-**asdfgh12345123/asdfgh12345123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :rocket: My Projects
 
-Here are some ideas to get you started:
+| Repository | Description | Stars |
+|------------|-------------|-------|
+| [awesome-ai-agents](https://github.com/asdfgh12345123/awesome-ai-agents) | Curated list of AI agent frameworks | :star: |
+| [awesome-rag](https://github.com/asdfgh12345123/awesome-rag) | RAG tools and best practices | :star: |
+| [awesome-ai-tools](https://github.com/asdfgh12345123/awesome-ai-tools) | AI productivity tools | :star: |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :heart: Support My Work
+
+If you find my curated lists useful, consider [sponsoring me](https://github.com/sponsors/asdfgh12345123)!
+
+## :bar_chart: GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asdfgh12345123&show_icons=true&theme=radical)
+
+## :link: Quick Links
+
+- [Awesome AI Agents](https://github.com/asdfgh12345123/awesome-ai-agents)
+- [Awesome RAG](https://github.com/asdfgh12345123/awesome-rag)
+- [Awesome AI Tools](https://github.com/asdfgh12345123/awesome-ai-tools)
