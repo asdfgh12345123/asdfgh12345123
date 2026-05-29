@@ -10,7 +10,7 @@
 
 ## :heart: Support My Work
 
-If you find my curated lists useful, consider [sponsoring me](https://github.com/sponsors/asdfgh12345123)!
+If you find my curated lists useful, consider [sponsoring me](https://ko-fi.com/aitoolshub)!
 
 ## :bar_chart: GitHub Stats
 
