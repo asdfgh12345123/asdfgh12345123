@@ -1,0 +1,30 @@
+# Weekly AI Digest - Week 22, 2026
+
+> Auto-generated every Monday. Star this repo to stay updated!
+
+## This Week in AI
+
+### Top Stories
+- Latest developments in AI agents and autonomous systems
+- New model releases and benchmarks
+- Open-source AI tool updates
+
+### New Tools Discovered
+- Updated weekly from our curated lists
+- Check the [full directory](https://asdfgh12345123.github.io/tools/)
+
+### Trending on GitHub
+- Auto-updated star counts from our awesome lists
+- See what's popular in AI this week
+
+### Quick Links
+- [AI Tools Directory](https://asdfgh12345123.github.io/tools/)
+- [Prompt Generator](https://asdfgh12345123.github.io/prompt-generator/)
+- [Awesome AI Agents](https://github.com/asdfgh12345123/awesome-ai-agents)
+- [Awesome RAG](https://github.com/asdfgh12345123/awesome-rag)
+- [Awesome AI Tools](https://github.com/asdfgh12345123/awesome-ai-tools)
+
+---
+
+*Auto-generated on 2026-05-29 by GitHub Actions*
+*Sponsor this project: [GitHub Sponsors](https://github.com/sponsors/asdfgh12345123)*
