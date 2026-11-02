@@ -1,4 +1,4 @@
-# Weekly AI Digest - Week 44, 2026
+# Weekly AI Digest - Week 45, 2026
 
 > Auto-generated every Monday. Star this repo to stay updated!
 
@@ -26,5 +26,5 @@
 
 ---
 
-*Auto-generated on 2026-10-26 by GitHub Actions*
+*Auto-generated on 2026-11-02 by GitHub Actions*
 *Sponsor this project: [GitHub Sponsors](https://github.com/sponsors/asdfgh12345123)*
